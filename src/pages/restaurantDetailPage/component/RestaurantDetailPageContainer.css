@@ -1,0 +1,45 @@
+.detailpage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 40vh;
+}
+.backarrow {
+  position: absolute;
+  left: 0;
+  margin-top: 1.5rem;
+}
+.heading {
+  font-weight: 2;
+}
+.restaurant_main_details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.3rem;
+  color: #4a4a4a;
+}
+.details_plus_button {
+  display: flex;
+  gap: 4rem;
+}
+.review_btn {
+  align-self: flex-start;
+  padding: 0.3rem 0.7rem;
+  background-color: #ef4f5f;
+  border-radius: 0.3rem;
+  border: none;
+}
+.modal {
+  background-color: #ef4f5f;
+  width: fit-content;
+  text-align: center;
+  margin-left: 60vh;
+  margin-top: 5rem;
+  padding: 4rem;
+}
+.review {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

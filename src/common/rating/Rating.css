@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.image-row {
+  display: flex;
+  justify-content: space-between;
+}
+.image_row_name {
+  display: flex;
+  gap: 0.2rem;
+}
+.image {
+  width: 60px;
+  height: auto;
+}
+.hr_line {
+  color: black;
+}
+.rating_icon {
+  display: flex;
+  gap: 0.2rem;
+  align-items: center;
+}

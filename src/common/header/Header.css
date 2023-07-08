@@ -1,0 +1,11 @@
+.category-button {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.btn {
+  padding: 0.3rem 0.7rem;
+  background-color: #ef4f5f;
+  border-radius: 0.3rem;
+  border: none;
+}
